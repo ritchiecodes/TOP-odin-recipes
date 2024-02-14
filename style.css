@@ -1,0 +1,37 @@
+body {
+  background: #eee;
+  font-family: sans-serif;
+}
+
+.card {
+  width: 400px;
+  background: #fff;
+  margin: 16px auto;
+  padding: 8px;
+}
+
+.title {
+  background: #e3f4ff;
+  color: #0b7dff;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 8px;
+  font-size: 36px;
+  padding: 8px;
+
+}
+
+.list {
+	background: #e3f4ff;
+	margin-top: 0px;
+	margin-bottom: 0px;
+	font-size: 16px;
+	padding: 8px;
+	text-align: center;
+	list-style-type: none;
+}
+
+
+ul {
+	
+}
